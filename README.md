@@ -1,9 +1,9 @@
 # COE 718: Embedded Systems Design
 
-**Institution:** Toronto Metropolitan University
-**Student:** Hamza Malik
-**Instructor:** Dr. Gul Khan
-**Course Coordinator:** Dr. Gul Khan
+**Institution:** Toronto Metropolitan University  
+**Student:** Hamza Malik  
+**Instructor:** Dr. Gul Khan  
+**Course Coordinator:** Dr. Gul Khan  
 
 ## 📖 Course Description
 

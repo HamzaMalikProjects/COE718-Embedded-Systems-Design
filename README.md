@@ -29,8 +29,6 @@ Demonstrated engineering principles through the coursework include:
 * **Hardware-Software Co-Design:** Optimizing system performance through efficient partitioning of hardware and software components.
 * **Fault Tolerance:** Strategies for designing robust systems capable of handling faults and priority inversion scenarios.
 
-embedded-systems arm-cortex-m3 rtos c-programming scheduling-algorithms keil-uvision real-time-systems
-
 ## © Copyright & License
 
 * **Proprietary Course Material:** This repository contains proprietary course materials, including lecture slides, lab manuals, and assignment specifications. All rights, title, and interest in these materials belong strictly to **Toronto Metropolitan University** and **Dr. Gul Khan**.
